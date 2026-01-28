@@ -1,5 +1,5 @@
 # 💫 About Me:
- About Me<br><br>Python developer focused on **AI and Machine Learning** with a solid mathematical foundation.  <br>Passionate about building intelligent systems, solving complex problems, and improving algorithmic efficiency.<br><br>- ⚙️ Tech: Python, ML, AI fundamentals<br>- 📐 Strength: Mathematics & analytical thinking<br>- 🧩 Enjoy working on logic-based and data-driven projects<br>- 📈 Constantly learning and improving<br><br>From math → to algorithms → to intelligent software.<br>
+<br>Python developer focused on **AI and Machine Learning** with a solid mathematical foundation.  <br>Passionate about building intelligent systems, solving complex problems, and improving algorithmic efficiency.<br><br>- ⚙️ Tech: Python, ML, AI fundamentals<br>- 📐 Strength: Mathematics & analytical thinking<br>- 🧩 Enjoy working on logic-based and data-driven projects<br>- 📈 Constantly learning and improving<br><br>From math → to algorithms → to intelligent software.<br>
 
 
 ## 🌐 Socials:
